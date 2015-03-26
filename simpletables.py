@@ -1,7 +1,6 @@
 import socket
 import struct
 import threading
-import time
 
 MCAST_GRP = '225.225.225.225'
 MCAST_PORT = 2225
